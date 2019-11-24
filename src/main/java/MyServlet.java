@@ -18,7 +18,6 @@ public class MyServlet extends HttpServlet {
             IOException {
         resp.setContentType("text/html");
         resp.getWriter().write("Hello, world!");
-
     }
 
     @Override
