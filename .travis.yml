@@ -14,4 +14,4 @@ deploy:
   provider: heroku
   api_key:
     secure: 172d9d3d-adec-405b-846c-ced45d81a8dd
-  app: Servletsymba100
+  app: servletsymba100
