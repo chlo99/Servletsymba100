@@ -9,8 +9,9 @@ import java.io.IOException;
 @WebServlet(urlPatterns={"/patients"},loadOnStartup = 1)
 public class MyServlet extends HttpServlet {
 
-    //constructor
+    // fields??
 
+    //constructor
 
     //methods
     @Override
